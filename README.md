@@ -1,8 +1,8 @@
-<h1>Horiseon README</h1>
+#Horiseon README
 
 [Horiseon Social Solution Services](https://adodt.github.io/horiseon/)
 
-<h2>Tasks performed to create a codebase following accessiblity standards: </h2>
+##Tasks performed to create a codebase following accessiblity standards:
 
 <li>Add accessibility alt attributes </li>
 <li>Add semantic HTML elements</li>
