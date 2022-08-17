@@ -5,5 +5,5 @@ Horiseon README
 *describe project*
 
 <div align: "center">
-  <img src="assets/images/Horiseon Webpage.html.png" width= "400px"/>
+  <img src="assets/images/Horiseon Webpage 1.html.png" width= "768px"/>
 </div>
