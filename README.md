@@ -1,8 +1,8 @@
-#Horiseon README
+# Horiseon README
 
 [Horiseon Social Solution Services](https://adodt.github.io/horiseon/)
 
-##Tasks performed to create a codebase following accessiblity standards:
+## Tasks performed to create a codebase following accessiblity standards:
 
 <li>Add accessibility alt attributes </li>
 <li>Add semantic HTML elements</li>
@@ -12,6 +12,6 @@
 </li>
 
 
-<div align: "center">
+<div align: auto;>
   <img src="assets/images/Horiseon Webpage 1.html.png" width= "768px"/>
 </div>
